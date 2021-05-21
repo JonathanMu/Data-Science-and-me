@@ -10,6 +10,6 @@ Week 1 :
 luckily this weeks course is one that i have already done in the past Careers in Data Science A-z on udemy.  Being a refresher i was able to speed through that course at double speed.  The handouts provided for each module are very clear and concise and beautifully laid out to up your inspiration levels.
 For background reading i decided upon confident data skills by Kirill Eremenko as he is the founder of superdatascience and i have been actively following his podcasts every day on the commute to and from work.  I will have four weeks to complete this book from front to back cover or as much as that is possible on a kindle.
 
-Last but not least is a github profile so this one has been resurected from the past to be my diary on this journey as well as housing any projects that i partakle in along the way.
+Last but not least is a github profile so this one has been resurrected from the past to be my diary on this journey as well as housing any projects that i partake in along the way.
 
 
